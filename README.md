@@ -1,2 +1,2 @@
 # Pintl
-A pintl look alike with only reactjs
+A pintrest look alike with only reactjs
