@@ -40,7 +40,6 @@ function App() {
        <div>
     <h1>Pintl</h1>
     </div>
-       <hr>
 
       <div id='gallery' className={"masonry-wrapper"}>
       <div className= "masonry">
