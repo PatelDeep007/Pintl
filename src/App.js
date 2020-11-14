@@ -37,14 +37,10 @@ function App() {
   return (
     
     <div className="">
-{      <nav className="navbar bg-red">
-        <div className="container">
-          <a className="navbar-brand" href="/#">
-            <h1>Pintl</h1>
-          </a>
-        </div>
-      </nav>}
-       
+       <div>
+    <h1>Pintl</h1>
+    </div>
+       <hr>
 
       <div id='gallery' className={"masonry-wrapper"}>
       <div className= "masonry">
