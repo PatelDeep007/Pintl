@@ -40,7 +40,7 @@ function App() {
 {      <nav className="navbar bg-red">
         <div className="container">
           <a className="navbar-brand" href="/#">
-            <h2>Pintl</h2>
+            <h1>Pintl</h1>
           </a>
         </div>
       </nav>}
