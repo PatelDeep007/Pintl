@@ -39,7 +39,7 @@ function App() {
     <div className="">
        <div>
     <h1>Pintl</h1>
-    </div>
+       </div>
 
       <div id='gallery' className={"masonry-wrapper"}>
       <div className= "masonry">
