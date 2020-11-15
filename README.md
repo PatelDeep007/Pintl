@@ -1,7 +1,7 @@
 # Pintl
 A pintrest look alike with only reactjs
 
-Contains lazy loading and infinite scroll
+Contains lazy loading and infinite scroll with the help of react hooks newly added in 16.8v
 
 Contains custom modals with a transition effect while opening the modal
 
